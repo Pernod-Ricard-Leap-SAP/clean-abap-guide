@@ -21,7 +21,7 @@
 
 本指南针对 [ABAP](https://zh.wikipedia.org/wiki/ABAP) 改编自 [Robert C. Martin 所著的 _Clean Code_]。
 
-[速查表](cheat-sheet/CheatSheet.md)为打印优化版本。
+[速查表](CheatSheet.md)为打印优化版本。
 
 [Robert C. Martin 所著的 _Clean Code_]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 

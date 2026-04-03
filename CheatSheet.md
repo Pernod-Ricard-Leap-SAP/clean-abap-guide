@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-The Clean ABAP **Cheat Sheet** summarizes the [Clean ABAP](../CleanABAP.md)
+The Clean ABAP **Cheat Sheet** summarizes the [Clean ABAP](CleanABAP.md)
 guidelines in a shortened format optimized for printout.
 
 **The Golden Rules** summarizes the most important guidelines

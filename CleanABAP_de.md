@@ -22,7 +22,7 @@
 Dieser Leitfaden ist eine Adaption des Standardwerks [Robert C. Martins _Clean Code_]
 an [ABAP](https://de.wikipedia.org/wiki/ABAP).
 
-Das [Cheat Sheet](cheat-sheet/CheatSheet.md) ist eine druckoptimierte Version.
+Das [Cheat Sheet](CheatSheet.md) ist eine druckoptimierte Version.
 
 [Robert C. Martins _Clean Code_]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 [_Clean Code_ von Robert C. Martin]: https://www.oreilly.com/library/view/clean-code/9780136083238/

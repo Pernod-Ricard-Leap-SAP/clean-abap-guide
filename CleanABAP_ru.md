@@ -23,7 +23,7 @@
 [Robert C. Martin's _Clean Code_]
 для [ABAP](https://en.wikipedia.org/wiki/ABAP).
 
-[Шпаргалка](cheat-sheet/CheatSheet.md) - это версия, оптимизированная для печати.
+[Шпаргалка](CheatSheet.md) - это версия, оптимизированная для печати.
 
 [Robert C. Martin's _Clean Code_]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 

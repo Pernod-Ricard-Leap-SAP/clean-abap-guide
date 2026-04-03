@@ -21,7 +21,7 @@
 
 このガイドは [ABAP](https://en.wikipedia.org/wiki/ABAP) 向けに [Robert C. Martin の _Clean Code_] を採用したものです。
 
-[チートシート](cheat-sheet/CheatSheet.md) は印刷に最適化されたものです。
+[チートシート](CheatSheet.md) は印刷に最適化されたものです。
 
 [robert c. martin の _clean code_]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 

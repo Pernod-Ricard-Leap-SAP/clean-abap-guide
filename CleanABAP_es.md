@@ -19,7 +19,7 @@
 Esta guía fue adaptada en base a [_Clean Code_ por Robert C. Martin] 
 para [ABAP](https://en.wikipedia.org/wiki/ABAP).
 
-La [Cheat Sheet](cheat-sheet/CheatSheet.md) es una versión optimizada para impresión.
+La [Cheat Sheet](CheatSheet.md) es una versión optimizada para impresión.
 
 [_Clean Code_ por Robert C. Martin]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 

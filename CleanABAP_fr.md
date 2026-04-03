@@ -21,7 +21,7 @@
 
 Ce guide est une adaptation de l'ouvrage de [Robert C. Martin_ Coder proprement (Clean Code)_] pour [ABAP](https://fr.wikipedia.org/wiki/ABAP).
 
-L'[antisèche](cheat-sheet/CheatSheet.md) est une version optimisée pour l'impression.
+L'[antisèche](CheatSheet.md) est une version optimisée pour l'impression.
 
 [Robert C. Martin_ Coder proprement (Clean Code)_]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 

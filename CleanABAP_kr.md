@@ -24,7 +24,7 @@
 이 가이드는 [ABAP](https://en.wikipedia.org/wiki/ABAP) 용
 [로버트 마틴의 _Clean Code_]라는 책과 관련이 있습니다.
 
-[Cheat Sheet](cheat-sheet/CheatSheet.md) 라는 파일은 프린트용 버전입니다.
+[Cheat Sheet](CheatSheet.md) 라는 파일은 프린트용 버전입니다.
 
 [로버트 마틴의 _Clean Code_]: http://www.yes24.com/Product/Goods/11681152 "한국링크"
 
